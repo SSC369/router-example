@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.home {
+  height: 100px;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-heading {
+  color: #551e53;
+}
